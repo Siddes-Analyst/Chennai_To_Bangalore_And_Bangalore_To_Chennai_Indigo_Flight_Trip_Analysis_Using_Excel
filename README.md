@@ -28,5 +28,29 @@ The trip details were analysed in two main parts:
 
 ![](Images/01.png)
 
-#### 📊 Analysis
-- 2 & 3 Week made a highest number of sales and profits. Mobile sold is 805k, Sales is 23K Cr, Profits is 6.8K Cr.
+### 📊 Analysis:
+- 9 daily flights (1 hr 5 min) operated throughout 2024, totalling 3,294 trips.
+- Total Passengers: 5.9L
+- Earnings: ₹228 Cr
+- Operational Cost: ₹143 Cr (63%)
+- Profit: ₹85 Cr (37%)
+
+### ➗ Daily Averages:
+- Passenger Load: 88.6%
+- Earnings: ₹62.4L
+- Cost: ₹39.3L
+- Profit: ₹23.1L
+
+### 📈 Trends & Insights:
+- Weekend Impact: Friday–Sunday contributed 44% of total profit.
+- Weekly Trend: Weeks 2–4 generated 70% of total profit.
+- Monthly Trend: October, April, and January were the most profitable months (within 0.25% variation).
+
+### 🎯 Conclusion:
+- The year 2024 was highly profitable with consistent monthly performance.
+- The BLR–MSS route alone contributed 37% of annual profit.
+- Increasing flight frequency and leveraging weekend/holiday demand can further boost revenue.
+
+
+
+
