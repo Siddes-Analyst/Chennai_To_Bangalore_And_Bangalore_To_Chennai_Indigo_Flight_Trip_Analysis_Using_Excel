@@ -152,3 +152,8 @@ Aircraft Types Operated:
 - Highest-profit flights: 6E 904 (09:25) and 6E 6017 (18:40) maintained consistent performance across both routes.
 - Increasing capacity in morning and evening time slots could further enhance profitability.
 
+### 🧠 Final Conclusion:
+Two aircraft types — A320neo (180 seats) and A321neo (220 seats) — operate on both routes with distinct performance characteristics.
+- •	A320neo flights: Operate mainly during off-peak or leisure hours, contributing 28% of total profit.
+- •	A321neo flights: Operate during high-demand business hours, contributing 72% of total profit.
+Overall, 2024 was a highly profitable year for both routes, showing strong load factors, stable revenue trends, and clear growth potential.
