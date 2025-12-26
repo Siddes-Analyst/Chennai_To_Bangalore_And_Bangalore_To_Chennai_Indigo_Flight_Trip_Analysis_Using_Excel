@@ -74,3 +74,16 @@ Aircraft Types Operated:
 ### 📈 Insights:
 - A320neo flights mainly operate during leisure hours (midnight, afternoon, and late evening).
 - These flights contribute 28% of total profit, often serving connecting passengers.
+
+### 💺 A321neo (220 Seats) – Aircraft Analysis:
+
+- Flight No: 6E 6269,	Schedule: 06:45–07:50 (Morning),	Total Passengers: 73K,	Earnings (₹ Cr): 26.28,	Cost (₹ Cr): 16.95,	Profit (₹ Cr): 9.33,	Load (%): 92%,	Profit Margin: 35%
+- Flight No: 6E 904,	Schedule: 09:25–10:25 (Morning),	Total Passengers: 73K,	Earnings (₹ Cr): 33.10,	Cost (₹ Cr): 16.95,	Profit (₹ Cr): 16.14,	Load (%): 92%,	Profit Margin: 49%
+- Flight No: 6E 356,	Schedule: 17:45–18:50 (Evening),	Total Passengers: 74K,	Earnings (₹ Cr): 26.39,	Cost (₹ Cr): 16.95,	Profit (₹ Cr): 9.44,	Load (%): 92%,	Profit Margin: 36%
+- Flight No: 6E 6017,	Schedule: 18:40–19:40 (Evening),	Total Passengers: 74K,	Earnings (₹ Cr): 33.15,	Cost (₹ Cr): 16.95,	Profit (₹ Cr): 16.20,	Load (%): 92%,	Profit Margin: 49%
+- Flight No: 6E 6177,	Schedule: 21:30–22:30 (Night),	  Total Passengers: 71K,	Earnings (₹ Cr): 27.23,	Cost (₹ Cr): 16.95,	Profit (₹ Cr): 10.27,	Load (%): 88%,	Profit Margin: 38%
+
+### 📈 Insights:
+- A321neo flights, operating mostly during business hours, deliver 72% of total profit.
+- Top-performing flights: 6E 904 (09:25) and 6E 6017 (18:40) show the highest profit margins.
+- Adding more flights between 06:45–09:25 (morning) and 18:40–21:30 (evening) could improve profitability.
