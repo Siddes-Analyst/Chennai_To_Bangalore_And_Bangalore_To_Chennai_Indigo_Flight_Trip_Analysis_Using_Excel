@@ -14,5 +14,7 @@
   - Chennai (MSS) → Bangalore (BLR)
 #### covering Passenger Seat Occupancy, Total Earnings, Flight Operational Cost, and Profit.
 
+![](Images/Dashboard.png)
+
 ---
 
