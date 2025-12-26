@@ -71,3 +71,6 @@ Aircraft Types Operated:
 - Flight No: 6E 6012,	Schedule: 16:45–17:55 (Evening),	Total Passengers: 60K,	Earnings (₹ Cr): 21.56,	Cost (₹ Cr): 14.79,	Profit (₹ Cr): 6.78,	Load (%): 92%,	Profit Margin: 32%
 - Flight No: 6E 6146,	Schedule: 22:30–23:35 (Night),	Total Passengers: 57K,	Earnings (₹ Cr): 22.34,	Cost (₹ Cr): 14.79,	Profit (₹ Cr): 7.55,	Load (%): 88%,	Profit Margin: 34%
 
+### 📈 Insights:
+- A320neo flights mainly operate during leisure hours (midnight, afternoon, and late evening).
+- These flights contribute 28% of total profit, often serving connecting passengers.
