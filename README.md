@@ -55,6 +55,11 @@ The trip details were analysed in two main parts:
 - The BLR–MSS route alone contributed 37% of annual profit.
 - Increasing flight frequency and leveraging weekend/holiday demand can further boost revenue.
 
+---
 
+### 🗓️ Flight-wise Trip Analysis
+Aircraft Types Operated:
+- A320neo (180 Seats)
+- A321neo (220 Seats)
 
 
