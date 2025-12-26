@@ -63,3 +63,12 @@ Aircraft Types Operated:
 - A321neo (220 Seats)
 
 ![](Images/02.png)
+
+### 💺 A320neo (180 Seats) – Aircraft Analysis:
+
+Flight No.	Schedule	Total Passengers	Earnings (₹ Cr)	Cost (₹ Cr)	Profit (₹ Cr)	Load (%)	Profit Margin
+6E 575	05:25–06:30 (Midnight)	54K	19.22	14.79	4.43	82%	23%
+6E 506	14:40–15:45 (Afternoon)	49K	19.17	14.79	4.38	76%	23%
+6E 6012	16:45–17:55 (Evening)	60K	21.56	14.79	6.78	92%	32%
+6E 6146	22:30–23:35 (Night)	57K	22.34	14.79	7.55	88%	34%
+
