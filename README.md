@@ -57,7 +57,7 @@ The trip details were analysed in two main parts:
 
 ---
 
-### 🗓️ Flight-wise Trip Analysis
+### 🛫 Flight-wise Trip Analysis
 Aircraft Types Operated:
 - A320neo (180 Seats)
 - A321neo (220 Seats)
