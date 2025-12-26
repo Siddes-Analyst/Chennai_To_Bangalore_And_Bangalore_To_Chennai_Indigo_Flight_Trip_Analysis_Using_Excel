@@ -23,3 +23,7 @@ covering Passenger Seat Occupancy, Total Earnings, Flight Operational Cost, and 
 The trip details were analysed in two main parts:
 - Day-wise Trip Analysis
 - Flight-wise Trip Analysis
+
+### 🗓️ Day-wise Trip Analysis
+
+![](Images/01.png)
