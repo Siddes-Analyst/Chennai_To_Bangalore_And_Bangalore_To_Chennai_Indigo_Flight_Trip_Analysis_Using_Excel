@@ -27,3 +27,6 @@ The trip details were analysed in two main parts:
 ### 🗓️ Day-wise Trip Analysis
 
 ![](Images/01.png)
+
+#### 📊 Analysis
+- 2 & 3 Week made a highest number of sales and profits. Mobile sold is 805k, Sales is 23K Cr, Profits is 6.8K Cr.
