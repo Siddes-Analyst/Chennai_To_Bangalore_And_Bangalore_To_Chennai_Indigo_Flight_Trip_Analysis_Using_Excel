@@ -12,5 +12,5 @@
 - Objective: *To analyse the flight trips between*
   - Bangalore (BLR) → Chennai (MSS)
   - Chennai (MSS) → Bangalore (BLR)
-covering Passenger Seat Occupancy, Total Earnings, Flight Operational Cost, and Profit.
+### covering Passenger Seat Occupancy, Total Earnings, Flight Operational Cost, and Profit.
 
