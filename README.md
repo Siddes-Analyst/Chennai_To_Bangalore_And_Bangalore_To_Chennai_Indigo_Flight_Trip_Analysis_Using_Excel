@@ -11,8 +11,11 @@
 - Duration: *4 Days*
 - Objective: *To analyse the flight trips between*
   - Bangalore (BLR) → Chennai (MSS)
+    - Day-wise Trip Analysis
+    - Flight-wise Trip Analysis
   - Chennai (MSS) → Bangalore (BLR)
-
+    - Day-wise Trip Analysis
+    - Flight-wise Trip Analysis
 covering Passenger Seat Occupancy, Total Earnings, Flight Operational Cost, and Profit.
 
 ![](Images/00.png)
