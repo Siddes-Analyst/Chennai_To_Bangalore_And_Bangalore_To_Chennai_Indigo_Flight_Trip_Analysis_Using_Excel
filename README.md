@@ -18,3 +18,7 @@
 
 ---
 
+## ✈️ Bangalore (BLR) → Chennai (MSS)
+The trip details were analysed in two main parts:
+- Day-wise Trip Analysis
+- Flight-wise Trip Analysis
