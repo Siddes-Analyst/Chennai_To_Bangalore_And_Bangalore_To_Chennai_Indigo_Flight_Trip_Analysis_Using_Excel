@@ -66,9 +66,8 @@ Aircraft Types Operated:
 
 ### 💺 A320neo (180 Seats) – Aircraft Analysis:
 
-Earnings (₹ Cr)	Cost (₹ Cr)	Profit (₹ Cr)	Load (%)	Profit Margin
-Flight No: 6E 575,	Schedule: 05:25–06:30 (Midnight),	Total Passengers: 54K,	Earnings (₹ Cr): 19.22,	Cost (₹ Cr): 14.79,	Profit (₹ Cr): 4.43,	Load (%): 82%,	Profit Margin: 23%
-Flight No: 6E 506,	Schedule: 14:40–15:45 (Afternoon),	Total Passengers: 49K,	Earnings (₹ Cr): 19.17,	Cost (₹ Cr): 14.79,	Profit (₹ Cr): 4.38,	Load (%): 76%,	Profit Margin: 23%
-Flight No: 6E 6012,	Schedule: 16:45–17:55 (Evening),	Total Passengers: 60K,	Earnings (₹ Cr): 21.56,	Cost (₹ Cr): 14.79,	Profit (₹ Cr): 6.78,	Load (%): 92%,	Profit Margin: 32%
-Flight No: 6E 6146,	Schedule: 22:30–23:35 (Night),	Total Passengers: 57K,	Earnings (₹ Cr): 22.34,	Cost (₹ Cr): 14.79,	Profit (₹ Cr): 7.55,	Load (%): 88%,	Profit Margin: 34%
+- Flight No: 6E 575,	Schedule: 05:25–06:30 (Midnight),	Total Passengers: 54K,	Earnings (₹ Cr): 19.22,	Cost (₹ Cr): 14.79,	Profit (₹ Cr): 4.43,	Load (%): 82%,	Profit Margin: 23%
+- Flight No: 6E 506,	Schedule: 14:40–15:45 (Afternoon),	Total Passengers: 49K,	Earnings (₹ Cr): 19.17,	Cost (₹ Cr): 14.79,	Profit (₹ Cr): 4.38,	Load (%): 76%,	Profit Margin: 23%
+- Flight No: 6E 6012,	Schedule: 16:45–17:55 (Evening),	Total Passengers: 60K,	Earnings (₹ Cr): 21.56,	Cost (₹ Cr): 14.79,	Profit (₹ Cr): 6.78,	Load (%): 92%,	Profit Margin: 32%
+- Flight No: 6E 6146,	Schedule: 22:30–23:35 (Night),	Total Passengers: 57K,	Earnings (₹ Cr): 22.34,	Cost (₹ Cr): 14.79,	Profit (₹ Cr): 7.55,	Load (%): 88%,	Profit Margin: 34%
 
