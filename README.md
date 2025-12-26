@@ -154,6 +154,7 @@ Aircraft Types Operated:
 
 ### 🧠 Final Conclusion:
 Two aircraft types — A320neo (180 seats) and A321neo (220 seats) — operate on both routes with distinct performance characteristics.
-- •	A320neo flights: Operate mainly during off-peak or leisure hours, contributing 28% of total profit.
-- •	A321neo flights: Operate during high-demand business hours, contributing 72% of total profit.
+- A320neo flights: Operate mainly during off-peak or leisure hours, contributing 28% of total profit.
+- A321neo flights: Operate during high-demand business hours, contributing 72% of total profit.
+
 Overall, 2024 was a highly profitable year for both routes, showing strong load factors, stable revenue trends, and clear growth potential.
